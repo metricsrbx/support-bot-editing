@@ -1,0 +1,10 @@
+{
+    "name": "support-bot",
+    "version": "1.0.0",
+    "description": "yes",
+    "main": "index.js",
+    "author": "Chris",
+    "dependencies": {
+        "dotenv": "^10.0.0"
+    }
+}
